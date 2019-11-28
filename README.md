@@ -1,10 +1,10 @@
 # Digits-Predictor-using-Scikit-Learn
 
-Description:
+# Description:
 
 We have digits dataset from scikit learn library. Our objective of this project is to compare six supervised machine learning models using the Digits dataset and come out with the best model that accurately predicts the correct digit.
 
-CLASSIFIERS USED: 
+# Classifiers: 
                   
         1. SUPPORT VECTOR MACHINE
         2. NAIVE BAYES
@@ -13,23 +13,23 @@ CLASSIFIERS USED:
         5. NEURAL NETWORKS
         6. STOCHASTIC GRADIENT DESCCENT
 
-REQUIREMENTS
+# Requirements
 
-  LIBRARIES
+  # Libraries
         
         1. SCIKIT-LEARN
         2. PANDAS
         3. NUMPY
         4. MATPLOTLIB
   
-  SYSTEM:
+  # System:
   
         1. PYTHON 3.5+
         2. WINDOWS 10
         3. JUPYTER NOTEBOOK
         4. PIP
  
-  RESULTS:
+  # Results:
 
        SUPPORT_VECTOR_MACHINE HAS  8.333333333333332 % ACCURACY
 
@@ -43,5 +43,5 @@ REQUIREMENTS
 
        STOCHASTIC GRADIENT DESCENT HAS  94.72222222222221 % ACCURACY
        
-  Our best model is K Nearest Neighbors Model with 98.6% accuray.      
+  #  Our best model is K Nearest Neighbors Model with 98.6% accuray.      
         
